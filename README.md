@@ -9,9 +9,12 @@ This is the GATO.py ( Game Automation Python ) project. This project is just a b
 
 IMPORTANT - 
 1. This code currently works only for Hill Climb Racing. 
-2. This code uses mouse clicks to Speed and Break the car. So as I mentioned in the code, the you have to check the mouse position and the position of the GAS and BREAK button for the game according to the podition of the GAS and BREAK button make changes in it.  
+2. This code uses mouse clicks to Speed and Break the car. So as I mentioned in the code, the you have to check the mouse position and the position of the GAS and BREAK button for the game according to the podition of the GAS and BREAK button make changes in it.
+3. 692, 519 are the co-ordinates for my Laptop, to find co-ordinates for your screen, take the mouse to that BREAK or GAS button and run the code.
+use this command to get the co-ordinates - print(aug.position())                                                                               
 
 COMMANDS -                                                              
 To speed up the car, say SPEED.                                                            
 For breaking or reversing the car, say BREAK.                                                                               
 To exit from the code, say QUIT.                                                                
+
