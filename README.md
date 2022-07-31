@@ -12,6 +12,6 @@ IMPORTANT -
 2. This code uses mouse clicks to Speed and Break the car. So as I mentioned in the code, the you have to check the mouse position and the position of the GAS and BREAK button for the game according to the podition of the GAS and BREAK button make changes in it.  
 
 COMMANDS - 
-To speed up the car, say SPEED. 
-For breaking or reversing the car, say BREAK. 
-To exit from the code, say QUIT.
+To speed up the car, say SPEED.                                                            
+For breaking or reversing the car, say BREAK.                                                                               
+To exit from the code, say QUIT.                                                                
